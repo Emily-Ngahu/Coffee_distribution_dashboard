@@ -1,7 +1,6 @@
 # Coffee_production_dashboard
 
 ![image](https://github.com/user-attachments/assets/6b8a47ea-6afa-4c69-b05b-75988e4d1143)
-
 ## Project Aim:
 The aim of this project is to visualize and analyze key metrics related to coffee production, helping stakeholders understand trends, production volumes, regional performance, and overall efficiency in the coffee industry. This dashboard will provide valuable insights for decision-makers, enabling them to track productivity, optimize supply chain operations, and predict future production needs.
 
@@ -60,7 +59,7 @@ The ultimate goal is to provide a comprehensive overview of the coffee productio
 
   ## Data cleaning
    1. Checked for missing values - there were nan values in the variety data type and processing type.
-      - All the nan values were replaced/filled with tje entry 'Other'. 
+      - All the nan values were replaced/filled with the entry 'Other'. 
    2. Checked for duplicates - there were no duplicates
    3. Checked for errors, and data types to ensure consistency and acuracy of the data.
       
@@ -86,62 +85,43 @@ The ultimate goal is to provide a comprehensive overview of the coffee productio
     ## How to Use the Dashboard:
      You can download the `.pbix` file from this repository.
       Download  [here]
-
-
-
-    
- Results:
-Total Coffee Production:
-
-The total number of coffee bags produced was X million (sum of all coffee bags).
-The total weight of coffee produced was Y million kilograms. This highlights the volume of coffee production across different regions and years.
-Annual Coffee Production:
-
-The yearly production trends show a fluctuation in the number of coffee bags produced across different years, with a peak in Year A where the highest number of bags was produced (X million bags). The lowest production occurred in Year B.
-The stacked column chart illustrates how total coffee production (both in bags and kilograms) changed over time, reflecting external factors such as market demand or climate impact.
-Coffee Species Distribution:
-
-Arabica accounted for Z% of the total coffee production, making it the dominant species, followed by Robusta at W%.
-The donut chart for coffee species indicates that Arabica is the most widely produced coffee species, especially in regions such as Country A and Country B.
-Processing Method Analysis:
-
-The most popular processing method is Method A, representing X% of total production, followed by Method B with Y%.
-The donut chart showcases the proportion of coffee processed using different methods, with a clear preference for certain methods based on region or variety.
-Average Coffee Quality (Total Data Scores):
-
-The average total data score for coffee quality across all regions and varieties was X/10, reflecting the overall quality of coffee produced during the specified period.
-Geographical Distribution:
-
-The world map visualization highlights major coffee-producing countries such as Country A, Country B, and Country C, with Country A leading in total production with X million bags.
-The production concentration is highest in regions with favorable growing conditions, such as South America and Africa.
-Conclusions:
-Coffee Production Trends:
-
-There is a steady increase in coffee production over the years, particularly for Arabica, which dominates the market.
-External factors such as climate conditions or global demand seem to influence production volumes year by year.
-Species and Processing Methods:
-
-Arabica remains the most popular species, largely produced in Country A and Country B, while Robusta plays a smaller but still significant role.
-The wet processing method is the most common, indicating a preference for its impact on coffee flavor and quality.
-Regional Strengths:
-
-Country A stands out as the largest producer of coffee, while Country B follows closely behind. These countries are key players in the global coffee supply chain.
-Average Quality:
-
-The overall average score of X/10 suggests that coffee quality remains consistent across varieties and regions, with little variation in total data scores.
-Recommendations:
-Focus on High-Performing Regions:
-
-Expand investment in regions that consistently produce large quantities of high-quality coffee, such as Country A. This can help increase overall production while maintaining coffee quality.
-Diversify Coffee Species:
-
-While Arabica dominates the market, there is potential for growth in Robusta production in regions where Arabica might face challenges due to climate change or market saturation. Diversifying the production could stabilize the supply chain.
-Improve Processing Methods:
-
-While the wet processing method is preferred, exploring the efficiency and sustainability of dry or hybrid processing methods could reduce costs and improve profitability for coffee producers.
-Monitor Climate Impacts:
-
-Given the fluctuations in production volumes, it is essential to monitor the impact of changing climate patterns on coffee yields, particularly in the most productive regions. This could help in planning and adapting to future environmental changes.
-Enhance Coffee Quality:
-
-To maintain or improve the average coffee quality score, consider implementing quality control measures at various stages of production, focusing on areas with lower scores to bring them up to the standard set by top-performing regions.
+## Results:
+### Total Coffee Production:
+ - The total number of coffee bags produced was 150,000 (sum of all coffee bags).
+ - The total weight of coffee produced was 31 billion kilograms. This highlights the volume of coffee production across different regions and years.
+### Annual Coffee Production:
+ - The yearly production trends show a fluctuation in the number of coffee bags produced across different years, with a peak in Year 2012 where the highest number of bags
+   was produced 36,005. The lowest production occurred in Year 2018.
+ - The stacked column chart illustrates how total coffee production (both in bags and kilograms) changed over time, reflecting external factors such as market demand
+   and climate impact.
+### Coffee Species Distribution:
+ - Arabica accounted for 96.87% of the total coffee production, making it the dominant species, followed by Robusta at 3.13%.
+ - The donut chart for coffee species indicates that Arabica is the most widely produced coffee species.
+### Processing Method Analysis:
+ - The most popular processing method is washed/wet, followed by Natural/dry.
+ - The donut chart showcases the proportion of coffee processed using different methods, with a clear preference for certain methods based on region or variety.
+### Average Coffee Quality (Total Data Scores):
+ - The average total data score for coffee quality across all regions and varieties was 82/100, reflecting the overall quality of coffee produced during the specified
+   period.
+## Conclusions:
+### Coffee Production Trends:
+ - There is a steady increase in coffee production over the years, particularly for Arabica, which dominates the market.
+ - External factors such as climate conditions or global demand seem to influence production volumes year by year.
+### Species and Processing Methods:
+ - Arabica remains the most popular species, largely produced in Country A and Country B, while Robusta plays a smaller but still significant role.
+ - The wet processing method is the most common, indicating a preference for its impact on coffee flavor and quality.
+## Recommendations:
+### Focus on High-Performing Regions:
+ - Expand investment in regions that consistently produce large quantities of high-quality coffee. This can help increase overall production while maintaining coffee quality.
+### Diversify Coffee Species:
+ - While Arabica dominates the market, there is potential for growth in Robusta production in regions where Arabica might face challenges due to climate change or market
+   saturation. Diversifying the production could stabilize the supply chain.
+### Improve Processing Methods:
+ - While the wet processing method is preferred, exploring the efficiency and sustainability of dry or hybrid processing methods could reduce costs and improve
+   profitability for coffee producers.
+### Monitor Climate Impacts:
+ - Given the fluctuations in production volumes, it is essential to monitor the impact of changing climate patterns on coffee yields, particularly in the most productive
+   regions. This could help in planning and adapting to future environmental changes.
+### Enhance Coffee Quality:
+ - To maintain or improve the average coffee quality score, consider implementing quality control measures at various stages of production, focusing on areas with lower
+   scores to bring them up to the standard set by top-performing regions.
