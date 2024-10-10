@@ -30,7 +30,7 @@ The ultimate goal is to provide a comprehensive overview of the coffee productio
    - Dashboard creation
      
   ## Data
-   The data used in this project was downloaded from kaggle.Download [here]()
+   The data used in this project was downloaded from kaggle.Download [here](https://github.com/Emily-Ngahu/Coffee_production_dashboard/blob/main/coffee.csv)
   ### Data description
    The Data has the following columns:
   1. Location.Country - This column represents the country where the coffee is produced.
