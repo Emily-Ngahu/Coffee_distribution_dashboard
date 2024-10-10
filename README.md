@@ -84,7 +84,7 @@ The ultimate goal is to provide a comprehensive overview of the coffee productio
 
     ## How to Use the Dashboard:
      You can download the `.pbix` file from this repository.
-      Download  [here]
+      Download  [here](https://github.com/Emily-Ngahu/Coffee_production_dashboard/blob/main/Coffee%20production%20dashboard.pbix)
 ## Results:
 ### Total Coffee Production:
  - The total number of coffee bags produced was 150,000 (sum of all coffee bags).
